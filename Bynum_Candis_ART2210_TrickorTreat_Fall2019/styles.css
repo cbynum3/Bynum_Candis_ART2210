@@ -1,0 +1,48 @@
+html{
+    width: auto;
+    height: auto;
+
+}
+body{
+    background-size: 1360px, 1250px;
+    text-align: center;
+    padding: 50px;
+    
+}
+
+button{
+    background-color: #9128C9;
+    border: black;
+    color: #00E503;
+    text-align: center;
+    font-size: 16px;
+    padding: 20px 100px;
+
+}
+button:hover{
+    background-color: #00E503;
+    color: white;
+
+}
+
+h1{
+    font-size:100px;
+    padding: 0px;
+}
+h2{
+    font-size:50px;
+
+}
+input[type=button]{
+    background-color: #9128C9;
+    border: none;
+    color: #00E503;
+    text-align: center;
+    font-size: 16px;
+    padding: 20px 32px;
+
+}
+input[type=button]:hover{
+    background-color: #00E503;
+    color: white;
+}
